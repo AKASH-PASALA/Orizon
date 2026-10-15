@@ -1,0 +1,1 @@
+it is private ai assistent agent which is under the proccess . We have just connected Oriozn with Ollama for using free llms and if anyone wants to work like this projects just dm me will disscuss and make new things in it.
